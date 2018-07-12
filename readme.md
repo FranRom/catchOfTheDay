@@ -1,13 +1,15 @@
 # “Catch of the Day”
 
+![catchoftheday](https://user-images.githubusercontent.com/32134460/42626977-f86a832e-85cb-11e8-8c04-ae793a10a58f.gif)
+
 Real-time app for a trendy seafood market where price and quantity available are variable and can change at a moment's notice. It has a menu, an order form, and an inventory management area where authorized users can immediately update product details.
 
 "The code in this repo was made with the course "React For Begginners" by Wes Bos."
 
 ## To Start
 
-Run in your terminal => npm run start
-Or you can check it in Production mode => <a href="https://cotd-zybigcxzhs.now.sh">Test it here!</a>
+You can check it out in Production mode => <a href="https://cotd-zybigcxzhs.now.sh">Test it here!</a>
+Or Run in your terminal => npm run start
 
 ### What I did
 
